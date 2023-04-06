@@ -9,11 +9,9 @@ import { ConnectBox, ConnectItem } from "./styles";
 
 export default function Connect() {
 
-
     // async function handleRegister(data) {
 
     // }
-
     return (
         <Container>
             <Header>
